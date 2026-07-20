@@ -22,9 +22,9 @@ An industrial-grade hardware design for an IP-based audio broadcasting and contr
 
 
 ## Repository Contents
-* `Schematics/`: High-resolution PDF exports of the schematic designs.
-* `PCB_Layout/`: 2D and 3D PDF views of the PCB routing and placement.
-* `Manufacturing/`: Gerber X2, NC Drill, and ActiveBOM files ready for production.
+* `Schematics`: High-resolution PDF exports of the schematic designs.
+* `PCB_Layout`: 2D and 3D PDF views of the PCB routing and placement.
+* `Manufacturing`: Gerber X2, NC Drill, and ActiveBOM files ready for production.
 
 ---
 *Designed by Muhammed Yusuf Öztürk*
