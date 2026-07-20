@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IP_Audio_Terminal.PrjPcb]
+   Generated File[IP_Audio_Terminal.TXT]
+   Generated File[IP_Audio_Terminal.LDP]
+   Generated File[IP_Audio_Terminal.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:02:02 On 21.07.2026
