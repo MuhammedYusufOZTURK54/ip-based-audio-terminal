@@ -20,11 +20,5 @@ An industrial-grade hardware design for an IP-based audio broadcasting and contr
 * **Signal Integrity:** Maintained strict clearance rules and physical isolation between high-speed digital lines and analog layers to minimize crosstalk. 45-degree routing and teardrop supports were applied to prevent acid traps.
 * **Production Ready:** Passed strict DRC (Design Rule Check) and DFM (Design for Manufacturing) guidelines.
 
-
-## Repository Contents
-* `Schematics`: High-resolution PDF exports of the schematic designs.
-* `PCB_Layout`: 2D and 3D PDF views of the PCB routing and placement.
-* `Manufacturing`: Gerber X2, NC Drill, and ActiveBOM files ready for production.
-
 ---
 *Designed by Muhammed Yusuf Öztürk*
